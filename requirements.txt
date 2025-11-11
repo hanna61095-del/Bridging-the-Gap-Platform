@@ -1,0 +1,6 @@
+Flask==2.3.2
+SQLAlchemy==2.0.19
+flask_sqlalchemy==3.0.3
+python-docx==0.8.11
+pdfminer.six==20221105
+nltk==3.8.1
